@@ -1,2 +1,3 @@
-# Docs
-Everything you need to know about Silverbolt
+Silverbolt
+
+Everything you need to know is in here
